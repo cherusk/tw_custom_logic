@@ -1,0 +1,10 @@
+---
+
+root:
+    uda_name: "estimate"
+    week_capacity: 40 # in h
+    #until: 
+    chunking_scenario:
+        projects:
+            hadern: 19
+            zaudern: 20
